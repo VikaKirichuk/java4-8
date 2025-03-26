@@ -1,0 +1,1286 @@
+{
+  "accessors": [
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 18505,
+      "max": [
+        97.42840576171875,
+        31.769437789916992,
+        237.46258544921875
+      ],
+      "min": [
+        -97.42841339111328,
+        -26.620603561401367,
+        100.47787475585938
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 222060,
+      "componentType": 5126,
+      "count": 18505,
+      "max": [
+        0.9994747042655945,
+        0.9999553561210632,
+        0.9999061822891235
+      ],
+      "min": [
+        -0.9994746446609497,
+        -0.9999553561210632,
+        -0.999890923500061
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "componentType": 5126,
+      "count": 18505,
+      "max": [
+        1.0,
+        0.9998326301574707,
+        0.9996325373649597,
+        1.0
+      ],
+      "min": [
+        -0.9999822378158569,
+        -0.9999846816062927,
+        -0.9996721148490906,
+        1.0
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 18505,
+      "max": [
+        0.9989914298057556,
+        0.999500036239624
+      ],
+      "min": [
+        0.0005000000237487257,
+        0.0005000000237487257
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "componentType": 5125,
+      "count": 103512,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 444120,
+      "componentType": 5126,
+      "count": 8001,
+      "max": [
+        45.692745208740234,
+        34.199012756347656,
+        237.74331665039063
+      ],
+      "min": [
+        -45.69274139404297,
+        -23.048294067382813,
+        -1.395437240600586
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 540132,
+      "componentType": 5126,
+      "count": 8001,
+      "max": [
+        0.9999198317527771,
+        0.9999955892562866,
+        0.9994316697120667
+      ],
+      "min": [
+        -0.9999198317527771,
+        -0.9999999403953552,
+        -0.9999875426292419
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "byteOffset": 296080,
+      "componentType": 5126,
+      "count": 8001,
+      "max": [
+        1.0,
+        0.9999852776527405,
+        0.9996097087860107,
+        1.0
+      ],
+      "min": [
+        -0.9999264478683472,
+        -0.9999967217445374,
+        -0.9999819993972778,
+        1.0
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 148040,
+      "componentType": 5126,
+      "count": 8001,
+      "max": [
+        0.999500036239624,
+        0.9973911046981812
+      ],
+      "min": [
+        0.0005000000237487257,
+        0.0005000000237487257
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 414048,
+      "componentType": 5125,
+      "count": 43572,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 636144,
+      "componentType": 5126,
+      "count": 14849,
+      "max": [
+        109.95450592041016,
+        28.21047592163086,
+        267.23419189453125
+      ],
+      "min": [
+        -109.95450592041016,
+        -16.887407302856445,
+        134.4688720703125
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 814332,
+      "componentType": 5126,
+      "count": 14849,
+      "max": [
+        0.9997397661209106,
+        0.999699056148529,
+        0.9999697208404541
+      ],
+      "min": [
+        -0.9997397661209106,
+        -0.9999924302101135,
+        -0.9999488592147827
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "byteOffset": 424096,
+      "componentType": 5126,
+      "count": 14849,
+      "max": [
+        1.0,
+        0.9999593496322632,
+        0.9999496936798096,
+        1.0
+      ],
+      "min": [
+        -0.9981106519699097,
+        -0.9999786019325256,
+        -0.9999747276306152,
+        1.0
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 212048,
+      "componentType": 5126,
+      "count": 14849,
+      "max": [
+        0.9934811592102051,
+        0.999500036239624
+      ],
+      "min": [
+        0.0005000000237487257,
+        0.0005000000237487257
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 588336,
+      "componentType": 5125,
+      "count": 82692,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 992520,
+      "componentType": 5126,
+      "count": 3776,
+      "max": [
+        -69.99920654296875,
+        79.12126159667969,
+        182.11126708984375
+      ],
+      "min": [
+        -121.22576141357422,
+        -113.43379211425781,
+        94.9402084350586
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 1037832,
+      "componentType": 5126,
+      "count": 3776,
+      "max": [
+        0.9999986886978149,
+        0.9999986290931702,
+        0.9999275803565979
+      ],
+      "min": [
+        -0.9999986886978149,
+        -0.9999994039535522,
+        -0.9999556541442871
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "byteOffset": 661680,
+      "componentType": 5126,
+      "count": 3776,
+      "max": [
+        0.9999648928642273,
+        0.9999994039535522,
+        0.9925820827484131,
+        1.0
+      ],
+      "min": [
+        -0.9999764561653137,
+        -0.9999997615814209,
+        -0.9929523468017578,
+        1.0
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 330840,
+      "componentType": 5126,
+      "count": 3776,
+      "max": [
+        0.999500036239624,
+        0.994848906993866
+      ],
+      "min": [
+        0.0005000000237487257,
+        0.0005000000237487257
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 919104,
+      "componentType": 5125,
+      "count": 19356,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 1083144,
+      "componentType": 5126,
+      "count": 402,
+      "max": [
+        5.874795913696289,
+        -6.175942420959473,
+        154.6494598388672
+      ],
+      "min": [
+        1.958789587020874,
+        -10.034746170043945,
+        150.7479248046875
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 1087968,
+      "componentType": 5126,
+      "count": 402,
+      "max": [
+        0.9991661310195923,
+        0.9971293807029724,
+        0.9972631335258484
+      ],
+      "min": [
+        -0.9991661310195923,
+        -0.9961332082748413,
+        -0.9972643852233887
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "byteOffset": 722096,
+      "componentType": 5126,
+      "count": 402,
+      "max": [
+        0.9999796152114868,
+        0.994853675365448,
+        0.6174916625022888,
+        1.0
+      ],
+      "min": [
+        -0.9999172687530518,
+        -0.9991775751113892,
+        -0.5622450113296509,
+        1.0
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 361048,
+      "componentType": 5126,
+      "count": 402,
+      "max": [
+        0.9602299928665161,
+        0.9799999594688416
+      ],
+      "min": [
+        0.019999999552965164,
+        0.019999999552965164
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 996528,
+      "componentType": 5125,
+      "count": 2280,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 1092792,
+      "componentType": 5126,
+      "count": 402,
+      "max": [
+        5.874796390533447,
+        -6.175943851470947,
+        154.6494598388672
+      ],
+      "min": [
+        1.9587898254394531,
+        -10.034748077392578,
+        150.7479248046875
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 1097616,
+      "componentType": 5126,
+      "count": 402,
+      "max": [
+        0.9991660714149475,
+        0.9971293807029724,
+        0.9972631335258484
+      ],
+      "min": [
+        -0.9991660714149475,
+        -0.9961329698562622,
+        -0.9972644448280334
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "byteOffset": 728528,
+      "componentType": 5126,
+      "count": 402,
+      "max": [
+        0.9999796152114868,
+        0.994853675365448,
+        0.6174913048744202,
+        1.0
+      ],
+      "min": [
+        -0.999917209148407,
+        -0.9991775751113892,
+        -0.56224524974823,
+        1.0
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 364264,
+      "componentType": 5126,
+      "count": 402,
+      "max": [
+        0.9602299928665161,
+        0.9799999594688416
+      ],
+      "min": [
+        0.019999999552965164,
+        0.019999999552965164
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 1005648,
+      "componentType": 5125,
+      "count": 2280,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 1102440,
+      "componentType": 5126,
+      "count": 13921,
+      "max": [
+        4.522327899932861,
+        -0.2177581787109375,
+        159.20053100585938
+      ],
+      "min": [
+        -4.529966831207275,
+        -8.781139373779297,
+        153.31072998046875
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 1269492,
+      "componentType": 5126,
+      "count": 13921,
+      "max": [
+        0.9996707439422607,
+        0.9999851584434509,
+        0.9997384548187256
+      ],
+      "min": [
+        -0.9997126460075378,
+        -0.9999998211860657,
+        -0.9999618530273438
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "byteOffset": 734960,
+      "componentType": 5126,
+      "count": 13921,
+      "max": [
+        1.0,
+        0.9999299049377441,
+        0.9980275630950928,
+        1.0
+      ],
+      "min": [
+        -0.9998427629470825,
+        -0.9999224543571472,
+        -0.9980905652046204,
+        1.0
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 367480,
+      "componentType": 5126,
+      "count": 13921,
+      "max": [
+        0.999500036239624,
+        0.9936414361000061
+      ],
+      "min": [
+        0.0005000000237487257,
+        0.0005000000237487257
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 1014768,
+      "componentType": 5125,
+      "count": 71994,
+      "type": "SCALAR"
+    }
+  ],
+  "asset": {
+    "extras": {
+      "author": "Monhoo (https://sketchfab.com/Monhoo)",
+      "license": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
+      "source": "https://sketchfab.com/3d-models/doomhummer-a-pose-2b44e548d6d345fe9fab1d0a48372b65",
+      "title": "Doomhummer A- Pose"
+    },
+    "generator": "Sketchfab-12.68.0",
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 1302744,
+      "name": "floatBufferViews",
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 478848,
+      "byteOffset": 1302744,
+      "byteStride": 8,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 1436544,
+      "byteOffset": 1781592,
+      "byteStride": 12,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 957696,
+      "byteOffset": 3218136,
+      "byteStride": 16,
+      "name": "floatBufferViews",
+      "target": 34962
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 4175832,
+      "uri": "scene.bin"
+    }
+  ],
+  "images": [
+    {
+      "uri": "textures/Armor_baseColor.png"
+    },
+    {
+      "uri": "textures/Armor_metallicRoughness.png"
+    },
+    {
+      "uri": "textures/Armor_emissive.png"
+    },
+    {
+      "uri": "textures/Armor_normal.png"
+    },
+    {
+      "uri": "textures/Outfit_baseColor.png"
+    },
+    {
+      "uri": "textures/Outfit_metallicRoughness.png"
+    },
+    {
+      "uri": "textures/Outfit_normal.png"
+    },
+    {
+      "uri": "textures/Body_baseColor.png"
+    },
+    {
+      "uri": "textures/Body_metallicRoughness.png"
+    },
+    {
+      "uri": "textures/Body_normal.png"
+    },
+    {
+      "uri": "textures/Hummer_baseColor.png"
+    },
+    {
+      "uri": "textures/Hummer_metallicRoughness.png"
+    },
+    {
+      "uri": "textures/Hummer_emissive.png"
+    },
+    {
+      "uri": "textures/Hummer_normal.png"
+    },
+    {
+      "uri": "textures/material_baseColor.png"
+    },
+    {
+      "uri": "textures/material_metallicRoughness.png"
+    },
+    {
+      "uri": "textures/material_normal.png"
+    },
+    {
+      "uri": "textures/Teeth_baseColor.png"
+    },
+    {
+      "uri": "textures/Teeth_metallicRoughness.png"
+    },
+    {
+      "uri": "textures/Teeth_normal.png"
+    }
+  ],
+  "materials": [
+    {
+      "doubleSided": true,
+      "emissiveFactor": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "emissiveTexture": {
+        "index": 2
+      },
+      "name": "Armor",
+      "normalTexture": {
+        "index": 3
+      },
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 0
+        },
+        "metallicRoughnessTexture": {
+          "index": 1
+        }
+      }
+    },
+    {
+      "doubleSided": true,
+      "name": "Outfit",
+      "normalTexture": {
+        "index": 6
+      },
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 4
+        },
+        "metallicRoughnessTexture": {
+          "index": 5
+        }
+      }
+    },
+    {
+      "doubleSided": true,
+      "name": "Body",
+      "normalTexture": {
+        "index": 9
+      },
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 7
+        },
+        "metallicRoughnessTexture": {
+          "index": 8
+        }
+      }
+    },
+    {
+      "doubleSided": true,
+      "emissiveFactor": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "emissiveTexture": {
+        "index": 12
+      },
+      "name": "Hummer",
+      "normalTexture": {
+        "index": 13
+      },
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 10
+        },
+        "metallicRoughnessTexture": {
+          "index": 11
+        }
+      }
+    },
+    {
+      "doubleSided": true,
+      "name": "material",
+      "normalTexture": {
+        "index": 16
+      },
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 14
+        },
+        "metallicRoughnessTexture": {
+          "index": 15
+        }
+      }
+    },
+    {
+      "doubleSided": true,
+      "name": "Teeth",
+      "normalTexture": {
+        "index": 19
+      },
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 17
+        },
+        "metallicRoughnessTexture": {
+          "index": 18
+        }
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "name": "DoomHummer_Armor_Armor_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 1,
+            "POSITION": 0,
+            "TANGENT": 2,
+            "TEXCOORD_0": 3
+          },
+          "indices": 4,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "DoomHummer_Suite_Outfit_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 6,
+            "POSITION": 5,
+            "TANGENT": 7,
+            "TEXCOORD_0": 8
+          },
+          "indices": 9,
+          "material": 1,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "DoomHummer_Body_Body_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 11,
+            "POSITION": 10,
+            "TANGENT": 12,
+            "TEXCOORD_0": 13
+          },
+          "indices": 14,
+          "material": 2,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "DoomHummer_Weapon_Hummer'_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 16,
+            "POSITION": 15,
+            "TANGENT": 17,
+            "TEXCOORD_0": 18
+          },
+          "indices": 19,
+          "material": 3,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "DoomHummer_EyeR_Eye_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 21,
+            "POSITION": 20,
+            "TANGENT": 22,
+            "TEXCOORD_0": 23
+          },
+          "indices": 24,
+          "material": 4,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "DoomHummer_EyeL_Eye_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 26,
+            "POSITION": 25,
+            "TANGENT": 27,
+            "TEXCOORD_0": 28
+          },
+          "indices": 29,
+          "material": 4,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "DoomHummer_Teeth_Teeth_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 31,
+            "POSITION": 30,
+            "TANGENT": 32,
+            "TEXCOORD_0": 33
+          },
+          "indices": 34,
+          "material": 5,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "children": [
+        1
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        2.220446049250313e-16,
+        -1.0,
+        0.0,
+        0.0,
+        1.0,
+        2.220446049250313e-16,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "Sketchfab_model"
+    },
+    {
+      "children": [
+        2
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        -1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "fb1f7214406347e4994f239365f3067a.fbx"
+    },
+    {
+      "children": [
+        3,
+        5,
+        7,
+        9,
+        11,
+        14,
+        17
+      ],
+      "name": "RootNode"
+    },
+    {
+      "children": [
+        4
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        2.220446049250313e-16,
+        -1.0,
+        0.0,
+        0.0,
+        1.0,
+        2.220446049250313e-16,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "DoomHummer_Armor"
+    },
+    {
+      "mesh": 0,
+      "name": "DoomHummer_Armor_Armor_0"
+    },
+    {
+      "children": [
+        6
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        2.220446049250313e-16,
+        -1.0,
+        0.0,
+        0.0,
+        1.0,
+        2.220446049250313e-16,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "DoomHummer_Suite"
+    },
+    {
+      "mesh": 1,
+      "name": "DoomHummer_Suite_Outfit_0"
+    },
+    {
+      "children": [
+        8
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        2.220446049250313e-16,
+        -1.0,
+        0.0,
+        0.0,
+        1.0,
+        2.220446049250313e-16,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "DoomHummer_Body"
+    },
+    {
+      "mesh": 2,
+      "name": "DoomHummer_Body_Body_0"
+    },
+    {
+      "children": [
+        10
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        2.220446049250313e-16,
+        -1.0,
+        0.0,
+        0.0,
+        1.0,
+        2.220446049250313e-16,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "DoomHummer_Weapon"
+    },
+    {
+      "mesh": 3,
+      "name": "DoomHummer_Weapon_Hummer'_0"
+    },
+    {
+      "children": [
+        12
+      ],
+      "matrix": [
+        1.0870749950408936,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        2.413791377977356e-16,
+        -1.0870749950408936,
+        0.0,
+        0.0,
+        1.0870749950408936,
+        2.413791377977356e-16,
+        0.0,
+        5.068698883056641,
+        250.2449493408203,
+        6.045193672180176,
+        1.0
+      ],
+      "name": "DoomHummer_EyeR"
+    },
+    {
+      "children": [
+        13
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        -0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        -3.9203646183013916,
+        8.105344772338867,
+        -152.69869995117188,
+        1.0
+      ],
+      "name": "Object_12"
+    },
+    {
+      "mesh": 4,
+      "name": "DoomHummer_EyeR_Eye_0"
+    },
+    {
+      "children": [
+        15
+      ],
+      "matrix": [
+        1.0870749950408936,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        2.413791377977356e-16,
+        -1.0870749950408936,
+        0.0,
+        0.0,
+        1.0870749950408936,
+        2.413791377977356e-16,
+        0.0,
+        -5.012066841125488,
+        250.2449493408203,
+        6.045193672180176,
+        1.0
+      ],
+      "name": "DoomHummer_EyeL"
+    },
+    {
+      "children": [
+        16
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        -0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        -3.9203646183013916,
+        8.105344772338867,
+        -152.69869995117188,
+        1.0
+      ],
+      "name": "Object_15"
+    },
+    {
+      "mesh": 5,
+      "name": "DoomHummer_EyeL_Eye_0"
+    },
+    {
+      "children": [
+        18
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        2.220446049250313e-16,
+        -1.0,
+        0.0,
+        0.0,
+        1.0,
+        2.220446049250313e-16,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "DoomHummer_Teeth"
+    },
+    {
+      "children": [
+        19
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        -0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        83.49497985839844,
+        1.0
+      ],
+      "name": "Object_18"
+    },
+    {
+      "mesh": 6,
+      "name": "DoomHummer_Teeth_Teeth_0"
+    }
+  ],
+  "samplers": [
+    {
+      "magFilter": 9729,
+      "minFilter": 9987,
+      "wrapS": 10497,
+      "wrapT": 10497
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "Sketchfab_Scene",
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "textures": [
+    {
+      "sampler": 0,
+      "source": 0
+    },
+    {
+      "sampler": 0,
+      "source": 1
+    },
+    {
+      "sampler": 0,
+      "source": 2
+    },
+    {
+      "sampler": 0,
+      "source": 3
+    },
+    {
+      "sampler": 0,
+      "source": 4
+    },
+    {
+      "sampler": 0,
+      "source": 5
+    },
+    {
+      "sampler": 0,
+      "source": 6
+    },
+    {
+      "sampler": 0,
+      "source": 7
+    },
+    {
+      "sampler": 0,
+      "source": 8
+    },
+    {
+      "sampler": 0,
+      "source": 9
+    },
+    {
+      "sampler": 0,
+      "source": 10
+    },
+    {
+      "sampler": 0,
+      "source": 11
+    },
+    {
+      "sampler": 0,
+      "source": 12
+    },
+    {
+      "sampler": 0,
+      "source": 13
+    },
+    {
+      "sampler": 0,
+      "source": 14
+    },
+    {
+      "sampler": 0,
+      "source": 15
+    },
+    {
+      "sampler": 0,
+      "source": 16
+    },
+    {
+      "sampler": 0,
+      "source": 17
+    },
+    {
+      "sampler": 0,
+      "source": 18
+    },
+    {
+      "sampler": 0,
+      "source": 19
+    }
+  ]
+}
